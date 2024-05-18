@@ -45,26 +45,26 @@ El manual de la GNU recomienda escribirlo con mayúscula porque suele aparecer c
 
 |     Funciones de libc     |      Funciones adicionales      |   Parte bonus   |
 | :-----------------------: | :-----------------------------: | :-------------: |
-| [ft_isalpha](SRCS/ft_isalpha.c) |     [ft_substr](SRCS/ft_substr.c)     |    [ft_lstnew](Bonus/ft_lstnew.c)     |
-| [ft_isdigit](SRCS/ft_isdigit.c) |    [ft_strjoin](SRCS/ft_strjoin.c)    | [ft_lstadd_front](Bonus/ft_lstadd_front.c) |
-| [ft_isalnum](SRCS/ft_isalnum.c) |    [ft_strtrim](SRCS/ft_strtrim.c)    |   [ft_lstsize](Bonus/ft_lstsize.c)    |
-| [ft_isascii](SRCS/ft_isascii.c) |      [ft_split](SRCS/ft_split.c)      |   [ft_lstlast](Bonus/ft_lstlast.c)   |
-| [ft_isprint](SRCS/ft_isprint.c) |       [ft_itoa](SRCS/ft_itoa.c)       | [ft_lstadd_back](Bonus/ft_lstadd_back.c)  |
-|  [ft_strlen](SRCS/ft_strlen.c)  |    [ft_strmapi](SRCS/ft_strmapi.c)    |  [ft_lstdelone](Bonus/ft_lstdelone.c)   |
-|  [ft_memset](SRCS/ft_memset)  |   [ft_striteri](SRCS/ft_striteri.c)   |   [ft_lstclear](Bonus/ft_lstclear.c)   |
-|   [ft_bzero](SRCS/ft_bzero.c)   | [ft_putchar_fd](SRCS/ft_putchar_fd.c) |   [ft_lstiter](Bonus/ft_lstiter.c)    |
-|  [ft_memcpy](SRCS/ft_memcpy.c)  |  [ft_putstr_fd](SRCS/ft_putstr_fd.c)  |    [ft_lstmap](Bonus/ft_lstmap.c)    |
-| [ft_memmove](SRCS/ft_memmove.c) | [ft_putendl_fd](SRCS/ft_putendl_fd.c) |                 |
-| [ft_strlcpy](SRCS/ft_strlcpy.c) |  [ft_putnbr_fd](SRCS/ft_putnbr_fd.c)  |                 |
-| [ft_strlcat](SRCS/ft_strlcat.c) |                                 |                 |
-| [ft_toupper](SRCS/ft_toupper.c) |                                 |                 |
-| [ft_tolower](SRCS/ft_tolower.c) |                                 |                 |
-|  [ft_strchr](SRCS/ft_strchr.c)  |                                 |                 |
-| [ft_strrchr](SRCS/ft_strrchr.c) |                                 |                 |
-| [ft_strncmp](SRCS/ft_strncmp.c) |                                 |                 |
-|  [ft_memchr](SRCS/ft_memchr.c)  |                                 |                 |
-|  [ft_memcmp](SRCS/ft_memcmp.c)  |                                 |                 |
-| [ft_strnstr](SRCS/ft_strnstr.c) |                                 |                 |
-|    [ft_atoi](SRCS/ft_atoi.c)    |                                 |                 |
-|  [ft_calloc](SRCS/ft_calloc.c)  |                                 |                 |
-|  [ft_strdup](SRCS/ft_strdup.c)  |                                 |                 |
+| [ft_isalpha](ft_isalpha.c) |     [ft_substr](ft_substr.c)     |    [ft_lstnew](ft_lstnew_bonus.c)     |
+| [ft_isdigit](ft_isdigit.c) |    [ft_strjoin](ft_strjoin.c)    | [ft_lstadd_front](ft_lstadd_front_bonus.c) |
+| [ft_isalnum](ft_isalnum.c) |    [ft_strtrim](ft_strtrim.c)    |   [ft_lstsize](ft_lstsize_bonus.c)    |
+| [ft_isascii](ft_isascii.c) |      [ft_split](ft_split.c)      |   [ft_lstlast](ft_lstlast_bonus.c)   |
+| [ft_isprint](ft_isprint.c) |       [ft_itoa](ft_itoa.c)       | [ft_lstadd_back](ft_lstadd_back_bonus.c)  |
+|  [ft_strlen](ft_strlen.c)  |    [ft_strmapi](ft_strmapi.c)    |  [ft_lstdelone](ft_lstdelone_bonus.c)   |
+|  [ft_memset](ft_memset)  |   [ft_striteri](ft_striteri.c)   |   [ft_lstclear](ft_lstclear_bonus.c)   |
+|   [ft_bzero](ft_bzero.c)   | [ft_putchar_fd](ft_putchar_fd.c) |   [ft_lstiter](ft_lstiter_bonus.c)    |
+|  [ft_memcpy](ft_memcpy.c)  |  [ft_putstr_fd](ft_putstr_fd.c)  |    [ft_lstmap](ft_lstmap_bonus.c)    |
+| [ft_memmove](ft_memmove.c) | [ft_putendl_fd](ft_putendl_fd.c) |                 |
+| [ft_strlcpy](ft_strlcpy.c) |  [ft_putnbr_fd](ft_putnbr_fd.c)  |                 |
+| [ft_strlcat](ft_strlcat.c) |                                 |                 |
+| [ft_toupper](ft_toupper.c) |                                 |                 |
+| [ft_tolower](ft_tolower.c) |                                 |                 |
+|  [ft_strchr](ft_strchr.c)  |                                 |                 |
+| [ft_strrchr](ft_strrchr.c) |                                 |                 |
+| [ft_strncmp](ft_strncmp.c) |                                 |                 |
+|  [ft_memchr](ft_memchr.c)  |                                 |                 |
+|  [ft_memcmp](ft_memcmp.c)  |                                 |                 |
+| [ft_strnstr](ft_strnstr.c) |                                 |                 |
+|    [ft_atoi](ft_atoi.c)    |                                 |                 |
+|  [ft_calloc](ft_calloc.c)  |                                 |                 |
+|  [ft_strdup](ft_strdup.c)  |                                 |                 |
